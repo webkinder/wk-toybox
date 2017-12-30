@@ -1,6 +1,4 @@
-#!/bin/sh
-
-function runPluginBuilder()
+runPluginBuilder ()
 {
     echo "Author name (e.g. 'Mark Mustermann')"
     read PLUGIN_AUTHOR
