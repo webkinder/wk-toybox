@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: WebKinder Starter Plugin
+Plugin Name: PLUGIN_NAME
 Plugin URI: https://webkinder.ch/
-Description: WebKinder Starter Plugin
-Author: [Autor des Plugins] (support@webkinder.ch)
+Description: PLUGIN_DESCRIPTION
+Author: PLUGIN_AUTHOR (support@webkinder.ch)
 Version: 0.0.1
 Author URI: https://webkinder.ch
 Text Domain: wk-starter-plugin
