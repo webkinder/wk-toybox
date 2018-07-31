@@ -3,8 +3,7 @@ Starter Plugin für neue Plugins
 
 ### Installation
 ```` bash
-git clone git@github.com:webkinder/wk-starter-plugin.git
-mv wk-starter-plugin [name-of-your-plugin]
+git clone git@github.com:webkinder/wk-starter-plugin.git [name-of-your-plugin]
 cd [name-of-your-plugin]
 composer install
 ````
