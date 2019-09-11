@@ -8,7 +8,7 @@ git clone git@github.com:webkinder/wk-starter-plugin.git [name-of-your-plugin]
 cd [name-of-your-plugin]
 composer install
 ````
-### WordPress:
+### WordPress:
 Herunterlade das aktuellste Release (.zip) und lade es hoch via WordPress Admin
 
 ## Building a WordPress Plugin
