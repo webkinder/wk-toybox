@@ -9,7 +9,7 @@ cd [name-of-your-plugin]
 composer install
 ````
 ### WordPress:
-Herunterlade das aktuellste Release (.zip) und lade es hoch via WordPress Admin
+(https://github.com/webkinder/wk-toybox/releases/download/0.1.0/wk-toybox.zip)[Herunterlade das aktuellste Release (.zip)] und lade es hoch via WordPress Admin
 
 ## Building a WordPress Plugin
 To create a WordPress Release .zip file run the following command
