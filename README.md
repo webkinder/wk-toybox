@@ -1,24 +1,21 @@
 # wk-toybox
 Plugin für Toybox Integration
 
-### Installation
+## Installation
+### SSH:
 ```` bash
 git clone git@github.com:webkinder/wk-starter-plugin.git [name-of-your-plugin]
 cd [name-of-your-plugin]
 composer install
 ````
+### WordPress:
+Herunterlade das aktuellste Release (.zip) und lade es hoch via WordPress Admin
 
-### First steps
-- Rename `wk-starter-plugin.php`
-- Change autoloading namespace in `composer.json`
-- Rename textdomain in `Plugin.php` and the main plugin file
-- Rename namespaces in `Plugin.php` and `PluginFactory.php` according to your change in the composer file
-
-### Building a WordPress Plugin
+## Building a WordPress Plugin
 To create a WordPress Release .zip file run the following command
 `composer run-script build`
 
-### Unit Testing
+## Unit Testing
 - `bin/install-wp-tests.sh wordpress_test root '' localhost latest`
 - `phpunit`
 
