@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: PLUGIN_NAME
+Plugin Name: WebKinder Toybox
 Plugin URI: https://webkinder.ch/
-Description: PLUGIN_DESCRIPTION
-Author: PLUGIN_AUTHOR (support@webkinder.ch)
+Description: Plugin für Toybox Integration
+Author: WebKinder (support@webkinder.ch)
 Version: 0.0.1
 Author URI: https://webkinder.ch
-Text Domain: wk-starter-plugin
+Text Domain: wk-toybox
 Domain Path: /languages
  */
 
