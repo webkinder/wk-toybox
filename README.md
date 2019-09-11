@@ -1,5 +1,5 @@
-# wk-starter-plugin
-Starter Plugin für neue Plugins
+# wk-toybox
+Plugin für Toybox Integration
 
 ### Installation
 ```` bash

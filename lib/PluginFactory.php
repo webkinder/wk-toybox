@@ -1,6 +1,6 @@
 <?php
 
-namespace WebKinder\StarterPlugin;
+namespace WebKinder\Toybox;
 
 final class PluginFactory
 {

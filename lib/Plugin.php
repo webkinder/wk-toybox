@@ -1,6 +1,6 @@
 <?php
 
-namespace WebKinder\StarterPlugin;
+namespace WebKinder\Toybox;
 
 final class Plugin
 {
@@ -17,6 +17,6 @@ final class Plugin
      */
     public function loadPluginTextdomain()
     {
-        load_plugin_textdomain('wk-starter-plugin', false, basename(dirname(__FILE__, 2)) . '/languages');
+        load_plugin_textdomain('wk-toybox', false, basename(dirname(__FILE__, 2)) . '/languages');
     }
 }

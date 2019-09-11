@@ -1,14 +1,14 @@
 {
-    "name": "wk-starter-plugin",
-    "description": "Plugin zum erstellen eines neuen Plugins",
+    "name": "webkinder/wk-toybox",
+    "description": "Plugin für Toybox Integration",
     "keywords": ["wordpress", "plugin"],
     "version": "0.0.1",
-    "homepage": "https://webkinder.ch/",
+    "homepage": "https://www.webkinder.ch/",
     "license": "GPL-3.0+",
     "authors": [{
-        "name": "Pascal Knecht",
+        "name": "WebKinder",
         "email": "support@webkinder.ch",
-        "homepage": "https://webkinder.ch/"
+        "homepage": "https://www.webkinder.ch/"
     }],
     "type": "wordpress-plugin",
     "require": {
@@ -16,7 +16,7 @@
         "composer/installers": "v1.2.0"
     },
     "autoload": {
-        "psr-4": {"WebKinder\\StarterPlugin\\": "lib/"}
+        "psr-4": {"WebKinder\\Toybox\\": "lib/"}
     },
     "scripts": {
         "build": "git archive --format=zip HEAD -o ${PWD##*/}.zip --worktree-attributes && zip -ur ${PWD##*/}.zip vendor"
