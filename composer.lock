@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0698fda9a0dc20eb64dbfb1c6826c454",
+    "content-hash": "d93d003848eec4e42a4470531ced2fc4",
     "packages": [
         {
             "name": "composer/installers",
@@ -112,6 +112,56 @@
                 "zikula"
             ],
             "time": "2016-08-13T20:53:52+00:00"
+        },
+        {
+            "name": "webkinder/wordpress-options-page-api",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/webkinder/wordpress-options-page-api.git",
+                "reference": "928d63f8ed0b1cfae559721b031c1e7875af70da"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/webkinder/wordpress-options-page-api/zipball/928d63f8ed0b1cfae559721b031c1e7875af70da",
+                "reference": "928d63f8ed0b1cfae559721b031c1e7875af70da",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WebKinder\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Pascal Knecht",
+                    "role": "Maintainer/Developer",
+                    "email": "pascal@webkinder.ch",
+                    "homepage": "https://webkinder.ch"
+                },
+                {
+                    "name": "Tareq Hasan",
+                    "role": "Original creator",
+                    "email": "tareq@wedevs.com",
+                    "homepage": "http://tareq.wedevs.com"
+                }
+            ],
+            "description": "WordPress settings api abstraction class",
+            "homepage": "https://github.com/webkinder/wordpress-options-page-api",
+            "keywords": [
+                "settings-api",
+                "wordpress",
+                "wp"
+            ],
+            "time": "2019-03-14T13:39:29+00:00"
         }
     ],
     "packages-dev": [],
