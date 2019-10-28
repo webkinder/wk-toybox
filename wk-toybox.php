@@ -4,7 +4,7 @@ Plugin Name: WebKinder Toybox
 Plugin URI: https://webkinder.ch/
 Description: Plugin für Toybox Integration
 Author: WebKinder (support@webkinder.ch)
-Version: 0.0.1
+Version: 0.1.0
 Author URI: https://webkinder.ch
 Text Domain: wk-toybox
 Domain Path: /languages
@@ -17,4 +17,8 @@ if (file_exists($autoload)) {
     require_once($autoload);
 }
 
-(WebKinder\Toybox\PluginFactory::create())->run();
+$plugin = WebKinder\Toybox\PluginFactory::create();
+$plugin->run();
+
+register_activation_hook(__FILE__, [$plugin, 'activate']);
+register_deactivation_hook(__FILE__, [$plugin, 'deactivate']);
