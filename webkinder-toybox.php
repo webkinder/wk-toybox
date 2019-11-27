@@ -3,7 +3,7 @@
 Plugin Name: WebKinder Toybox
 Plugin URI: https://webkinder.ch/
 Description: Plugin für Toybox Integration
-Author: WebKinder (support@webkinder.ch)
+Author: WebKinder
 Version: 1.0.1
 Author URI: https://webkinder.ch
 Text Domain: webkinder-toybox
