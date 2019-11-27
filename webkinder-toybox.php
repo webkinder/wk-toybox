@@ -6,7 +6,7 @@ Description: Plugin für Toybox Integration
 Author: WebKinder (support@webkinder.ch)
 Version: 1.0.0
 Author URI: https://webkinder.ch
-Text Domain: wk-toybox
+Text Domain: webkinder-toybox
 Domain Path: /languages
  */
 
