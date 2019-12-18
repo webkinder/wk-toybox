@@ -18,8 +18,5 @@
     },
     "autoload": {
         "psr-4": {"WebKinder\\Toybox\\": "lib/"}
-    },
-    "scripts": {
-        "build": "git archive --format=zip HEAD -o ${PWD##*/}.zip --worktree-attributes && zip -ur ${PWD##*/}.zip vendor"
     }
 }
