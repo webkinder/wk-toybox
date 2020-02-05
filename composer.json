@@ -2,7 +2,7 @@
     "name": "webkinder/wk-toybox",
     "description": "Plugin für Toybox Integration",
     "keywords": ["wordpress", "plugin"],
-    "version": "1.0.1",
+    "version": "1.0.0",
     "homepage": "https://www.webkinder.ch/",
     "license": "GPL-3.0+",
     "authors": [{

@@ -1,4 +1,4 @@
-=== WebKinder Toybox ===
+=== Toybox by Webkinder ===
 Contributors: webkinder
 Tags: toybox, feedback, collaboration
 Requires at least: 4.8

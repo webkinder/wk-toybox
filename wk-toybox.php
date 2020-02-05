@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WebKinder Toybox
+Plugin Name: Toybox by Webkinder
 Plugin URI: https://webkinder.ch/
 Description: Plugin für Toybox Integration
 Author: WebKinder
