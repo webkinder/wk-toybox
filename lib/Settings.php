@@ -38,7 +38,7 @@ class Settings
           [
             [
               'id' => 'wk_toybox_basic_options',
-              'title' => __('Toybox Einstellungen', 'webkinder-toybox')
+              'title' => __('Toybox Einstellungen', 'wk-toybox')
             ]
           ])
       )
@@ -48,29 +48,29 @@ class Settings
             'wk_toybox_basic_options' => [
               [
                 'name' => 'wk_toybox_activate',
-                'label' => __('Aktiviere Toybox', 'webkinder-toybox'),
+                'label' => __('Aktiviere Toybox', 'wk-toybox'),
                 'type' => 'checkbox',
               ],
               [
                 'name' => 'wk_toybox_token',
-                'label' => __('Toybox Token/ID', 'webkinder-toybox'),
+                'label' => __('Toybox Token/ID', 'wk-toybox'),
                 'type' => 'text',
               ],
               [
                 'name' => 'wk_toybox_show_only_for',
-                'label' => __('Nur für folgende Besucher anzeigen', 'webkinder-toybox'),
+                'label' => __('Nur für folgende Besucher anzeigen', 'wk-toybox'),
                 'type' => 'select',
                 'options' => [
                   'all' => __('Alle', 'webkinder-toybox'),
-                  'logged_in' => __('Eingeloggte Benutzer', 'webkinder-toybox'),
-                  'admin_only' => __('Administratoren', 'webkinder-toybox'),
+                  'logged_in' => __('Eingeloggte Benutzer', 'wk-toybox'),
+                  'admin_only' => __('Administratoren', 'wk-toybox'),
                 ]
               ],
             ]
           ]
         )
       )
-      ->register_page('Toybox', 'Toybox', 'manage_options', 'webkinder-toybox')
+      ->register_page('Toybox', 'Toybox', 'manage_options', 'wk-toybox')
       ->admin_init();
   }
 }
