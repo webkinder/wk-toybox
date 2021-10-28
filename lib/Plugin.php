@@ -33,7 +33,7 @@ final class Plugin
   {
     ?>
     <!-- Toybox Code -->
-    <script src="https://d16ahjtmf9d1au.cloudfront.net/inject.bundle.js" async data-id="ToyboxSnippet"
+    <script src="https://d3057btae1806x.cloudfront.net/inject.bundle.js" async data-id="ToyboxSnippet"
             data-token="<?php echo $this->settings->getSetting('wk_toybox_token'); ?>"></script>
     <!-- End Toybox Code -->
     <?php

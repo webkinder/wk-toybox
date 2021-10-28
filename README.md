@@ -5,7 +5,7 @@
 
 
 <center>
-<a href="https://webkinder.ch">
+<a href="https://www.webkinder.ch">
 <img src="https://www.webkinder.ch/static/webkinder-banner.png" alt="WebKinder" />
 </a>
 </center>
