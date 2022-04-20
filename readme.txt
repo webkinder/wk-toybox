@@ -1,10 +1,10 @@
-=== Toybox by Webkinder ===
-Contributors: webkinder
+=== Toybox by WEBKINDER ===
+Contributors: WEBKINDER
 Tags: toybox, feedback, collaboration
 Requires at least: 4.8
-Tested up to: 5.8.1
+Tested up to: 5.9.3
 Requires PHP: 7.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -6,11 +6,11 @@
 
 <center>
 <a href="https://www.webkinder.ch">
-<img src="https://www.webkinder.ch/static/webkinder-banner.png" alt="WebKinder" />
+<img src="https://www.webkinder.ch/static/webkinder-banner.png" alt="WEBKINDER" />
 </a>
 </center>
 
-# WebKinder Toybox Plugin
+# WEBKINDER Toybox Plugin
 
 This is the source repository for our plugin https://wordpress.org/plugins/wk-toybox/.
 

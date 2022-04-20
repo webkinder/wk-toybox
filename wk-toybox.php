@@ -1,10 +1,11 @@
 <?php
+
 /**
- * Plugin Name: Toybox by Webkinder
+ * Plugin Name: Toybox by WEBKINDER
  * Plugin URI: https://www.webkinder.ch/
  * Description: Plugin to integrate Toybox feedback system https://www.toyboxsystems.com in your website
- * Author: WebKinder
- * Version: 1.0.1
+ * Author: WEBKINDER
+ * Version: 1.0.2
  * Author URI: https://www.webkinder.ch
  * Text Domain: wk-toybox
  * Domain Path: /languages
